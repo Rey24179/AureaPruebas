@@ -1,0 +1,286 @@
+{
+  "sucursales": [
+    {
+      "nombre_sucursal": "Áurea Roosevelt",
+      "ventas": 42000.0,
+      "compras": 175
+    },
+    {
+      "nombre_sucursal": "Áurea Cayalá",
+      "ventas": 38815.0,
+      "compras": 161
+    },
+    {
+      "nombre_sucursal": "Áurea Naranjo",
+      "ventas": 33443.0,
+      "compras": 142
+    }
+  ],
+  "productos": [
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 5,
+      "nombre_platillo": "Pollo en salsa de champiñones",
+      "categoria": "Plato Fuerte",
+      "ventas": 12810.0,
+      "unidades": 122,
+      "posicion": 1
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 4,
+      "nombre_platillo": "Lomo en salsa de Pimienta",
+      "categoria": "Plato Fuerte",
+      "ventas": 11270.0,
+      "unidades": 98,
+      "posicion": 2
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 6,
+      "nombre_platillo": "Ravioles de Ricotta",
+      "categoria": "Plato Fuerte",
+      "ventas": 11235.0,
+      "unidades": 107,
+      "posicion": 3
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 3,
+      "nombre_platillo": "Risotto de Hongos",
+      "categoria": "Plato Fuerte",
+      "ventas": 9240.0,
+      "unidades": 105,
+      "posicion": 4
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 1,
+      "nombre_platillo": "Pollo a la Parrilla",
+      "categoria": "Plato Fuerte",
+      "ventas": 8775.0,
+      "unidades": 117,
+      "posicion": 5
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 2,
+      "nombre_platillo": "Pasta Alfredo con Pollo",
+      "categoria": "Plato Fuerte",
+      "ventas": 8080.0,
+      "unidades": 101,
+      "posicion": 6
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 8,
+      "nombre_platillo": "Pastel de Chocolate",
+      "categoria": "Postre",
+      "ventas": 4680.0,
+      "unidades": 117,
+      "posicion": 7
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 7,
+      "nombre_platillo": "Cheesecake de Frutos Rojos",
+      "categoria": "Postre",
+      "ventas": 4494.0,
+      "unidades": 107,
+      "posicion": 8
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 13,
+      "nombre_platillo": "Latte",
+      "categoria": "Bebida",
+      "ventas": 4064.0,
+      "unidades": 127,
+      "posicion": 9
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 19,
+      "nombre_platillo": "Latte Frío",
+      "categoria": "Bebida",
+      "ventas": 3910.0,
+      "unidades": 115,
+      "posicion": 10
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 14,
+      "nombre_platillo": "Mocha",
+      "categoria": "Bebida",
+      "ventas": 3885.0,
+      "unidades": 111,
+      "posicion": 11
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 20,
+      "nombre_platillo": "Mocha Frío",
+      "categoria": "Bebida",
+      "ventas": 3737.0,
+      "unidades": 101,
+      "posicion": 12
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 18,
+      "nombre_platillo": "Cappuccino Frío",
+      "categoria": "Bebida",
+      "ventas": 3680.0,
+      "unidades": 115,
+      "posicion": 13
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 15,
+      "nombre_platillo": "Chocolate Caliente",
+      "categoria": "Bebida",
+      "ventas": 3600.0,
+      "unidades": 120,
+      "posicion": 14
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 9,
+      "nombre_platillo": "Croissant de Mantequilla",
+      "categoria": "Postre",
+      "ventas": 3556.0,
+      "unidades": 127,
+      "posicion": 15
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 12,
+      "nombre_platillo": "Cappuccino",
+      "categoria": "Bebida",
+      "ventas": 3300.0,
+      "unidades": 110,
+      "posicion": 16
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 17,
+      "nombre_platillo": "Americano Frío",
+      "categoria": "Bebida",
+      "ventas": 3267.0,
+      "unidades": 121,
+      "posicion": 17
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 16,
+      "nombre_platillo": "Té o Infusión",
+      "categoria": "Bebida",
+      "ventas": 3050.0,
+      "unidades": 122,
+      "posicion": 18
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 21,
+      "nombre_platillo": "Té Frío",
+      "categoria": "Bebida",
+      "ventas": 2835.0,
+      "unidades": 105,
+      "posicion": 19
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 11,
+      "nombre_platillo": "Americano",
+      "categoria": "Bebida",
+      "ventas": 2450.0,
+      "unidades": 98,
+      "posicion": 20
+    },
+    {
+      "origen_datos": "Proyecto 2",
+      "platillo_id": 10,
+      "nombre_platillo": "Espresso",
+      "categoria": "Bebida",
+      "ventas": 2340.0,
+      "unidades": 117,
+      "posicion": 21
+    }
+  ],
+  "horas": [
+    {
+      "hora": 13,
+      "compras": 175
+    },
+    {
+      "hora": 12,
+      "compras": 109
+    },
+    {
+      "hora": 9,
+      "compras": 30
+    },
+    {
+      "hora": 8,
+      "compras": 28
+    },
+    {
+      "hora": 14,
+      "compras": 20
+    },
+    {
+      "hora": 20,
+      "compras": 18
+    },
+    {
+      "hora": 19,
+      "compras": 18
+    },
+    {
+      "hora": 10,
+      "compras": 16
+    },
+    {
+      "hora": 18,
+      "compras": 15
+    },
+    {
+      "hora": 17,
+      "compras": 14
+    },
+    {
+      "hora": 15,
+      "compras": 12
+    },
+    {
+      "hora": 16,
+      "compras": 10
+    },
+    {
+      "hora": 21,
+      "compras": 10
+    },
+    {
+      "hora": 11,
+      "compras": 2
+    },
+    {
+      "hora": 22,
+      "compras": 1
+    }
+  ],
+  "categorias": [
+    {
+      "categoria": "Plato Fuerte",
+      "ventas": 61410.0
+    },
+    {
+      "categoria": "Bebida",
+      "ventas": 40118.0
+    },
+    {
+      "categoria": "Postre",
+      "ventas": 12730.0
+    }
+  ]
+}

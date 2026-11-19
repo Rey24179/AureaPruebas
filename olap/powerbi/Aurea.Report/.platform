@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Aurea"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3a2d61d3-d2da-478f-a5e8-2c019028d6f1"
+  }
+}

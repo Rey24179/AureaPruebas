@@ -1,0 +1,18 @@
+{
+  "estado": "APROBADO",
+  "motor": "PostgreSQL 18.4 on x86_64-windows, compiled by msvc-19.44.35227, 64-bit",
+  "bases_prueba": [
+    "aurea_test_20261119092301",
+    "aurea_restore_20261119092301"
+  ],
+  "comprobaciones": [
+    "Carga completa: 8182 hechos; reconciliación fila por fila",
+    "Segunda carga idéntica: sin duplicar filas ni importes",
+    "Generador SQL recibido reproduce exactamente las 6619 líneas simuladas",
+    "Cantidad negativa: rechazo y rollback correctos",
+    "Dimensión huérfana: rechazo y rollback correctos",
+    "Importe incorrecto: rechazo y rollback correctos",
+    "Cambio de fuente detectado: rechazo y rollback correctos",
+    "Dump restaurado en una segunda base: reconciliación exacta"
+  ]
+}

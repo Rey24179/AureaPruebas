@@ -1,0 +1,16 @@
+{
+  "estado": "APROBADO",
+  "archivos_con_esquema": 45,
+  "tipos_visuales": [
+    "card",
+    "clusteredBarChart",
+    "clusteredColumnChart",
+    "donutChart",
+    "lineChart",
+    "scatterChart",
+    "slicer",
+    "textbox",
+    "treemap"
+  ],
+  "alcance": "Validación estructural JSON y referencias de campos; no sustituye apertura y actualización en Power BI Desktop."
+}

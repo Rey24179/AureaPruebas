@@ -1,0 +1,15 @@
+Ventas Q = SUM(Ventas[importe])
+
+Compras = DISTINCTCOUNT(Ventas[compra_clave])
+
+Unidades = SUM(Ventas[cantidad])
+
+Ticket promedio Q = DIVIDE([Ventas Q], [Compras])
+
+Precio medio Q = DIVIDE([Ventas Q], [Unidades])
+
+Clientes identificados = CALCULATE(DISTINCTCOUNT(Ventas[cliente_id]), Ventas[cliente_identificado] = TRUE())
+
+Dias con ventas = DISTINCTCOUNT(Ventas[fecha])
+
+Ventas por dia Q = DIVIDE([Ventas Q], [Dias con ventas])

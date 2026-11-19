@@ -1,0 +1,28 @@
+[
+  {
+    "origen": "Proyecto 2",
+    "archivo": "ventas_aurea_p2.csv",
+    "sha256": "fca1c7d21398f841d85b4b967e7bc212937f796048c7afcf0761386da7650f70",
+    "lineas": 1563,
+    "compras": 478,
+    "unidades": 2363,
+    "ventas": "114258.00",
+    "ticket_promedio": "239.03",
+    "fecha_inicial": "2026-10-15",
+    "fecha_final": "2026-11-05",
+    "lineas_sin_cliente": 51
+  },
+  {
+    "origen": "Simulado SQL",
+    "archivo": "ventas_aurea_simuladas.csv",
+    "sha256": "2a68d5c32a9f045d344aa470aaf86965e367fc14a6d91b7a3eb8e3dd23ebb9f2",
+    "lineas": 6619,
+    "compras": 2026,
+    "unidades": 10965,
+    "ventas": "529904.00",
+    "ticket_promedio": "261.55",
+    "fecha_inicial": "2026-07-01",
+    "fecha_final": "2026-09-30",
+    "lineas_sin_cliente": 209
+  }
+]

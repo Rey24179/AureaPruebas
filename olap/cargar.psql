@@ -1,0 +1,14 @@
+-- Ejecutar desde la carpeta olap: psql -X -d PRF_Aurea_OLAP -f cargar.psql
+-- Validar primero: python cargar.py --solo-validar
+\set ON_ERROR_STOP on
+BEGIN;
+SET LOCAL TIME ZONE 'America/Guatemala';
+\ir sql/01_estructura.sql
+\ir sql/02_vistas.sql
+TRUNCATE staging.ventas_originales, staging.ventas_simuladas;
+\copy staging.ventas_originales FROM 'data/ventas_aurea_p2.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8')
+\copy staging.ventas_simuladas FROM 'data/ventas_aurea_simuladas.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8')
+\ir sql/03_carga.sql
+\ir sql/04_analisis.sql
+\ir sql/05_validacion.sql
+COMMIT;
