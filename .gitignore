@@ -5,3 +5,7 @@ tmp/
 .demo-data.json
 *.log
 node_modules/
+
+.venv-olap/
+olap/powerbi/**/.pbi/
+*.pbix

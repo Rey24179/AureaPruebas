@@ -1,5 +1,8 @@
 # Cafetería Áurea · Base de datos
 
+**Proyecto 3 · OLAP:** fuentes, carga reproducible, modelo estrella, proyecto Power BI,
+documentación y respaldo están en [olap/README.md](olap/README.md).
+
 Proyecto No. 2 · CC3088 Base de Datos 1 · Semestre II 2026
 
 Sistema de gestión para una cadena de cafeterías con tres sedes: reservas de mesas,
